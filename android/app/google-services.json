@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874045282601",
+    "project_id": "camarra-7b292",
+    "storage_bucket": "camarra-7b292.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874045282601:android:65386cd349b06968913f38",
+        "android_client_info": {
+          "package_name": "com.example.camarra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQeZkztiK4ZNvv_7haUMDVAz4zxsol7jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874045282601:android:9ddbf4c5963e982f913f38",
+        "android_client_info": {
+          "package_name": "com.jonas.camarra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQeZkztiK4ZNvv_7haUMDVAz4zxsol7jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
