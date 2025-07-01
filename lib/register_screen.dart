@@ -83,6 +83,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                 TextButton(
                   onPressed: () {
                     Navigator.pop(context); // zpět na login
+                  },
                   child: const Text("Already have an account? Log In"),
                 ),
               ],
